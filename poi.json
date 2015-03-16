@@ -1,0 +1,652 @@
+[
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-05T16:51:48.804Z",
+        "location": {
+            "latitude": 39.195348,
+            "longitude": 9.159371
+        },
+        "name": "Le Palmette",
+        "objectId": "5sPWCJsKOl",
+        "updatedAt": "2014-08-12T15:23:33.496Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T17:55:04.241Z",
+        "location": {
+            "latitude": 39.204533,
+            "longitude": 9.163968
+        },
+        "name": "Palm Beach",
+        "objectId": "BfYk6pqv4K",
+        "updatedAt": "2014-08-12T15:23:53.382Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:08:33.201Z",
+        "location": {
+            "latitude": 39.209107,
+            "longitude": 9.168683
+        },
+        "name": "Il Nilo",
+        "objectId": "QopXtzebQU",
+        "updatedAt": "2014-08-12T15:24:40.038Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:09:35.422Z",
+        "location": {
+            "latitude": 39.209509,
+            "longitude": 9.169153
+        },
+        "name": "Calypso",
+        "objectId": "h63aEuAHXH",
+        "updatedAt": "2014-08-12T15:24:46.040Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:14:42.287Z",
+        "location": {
+            "latitude": 39.213553,
+            "longitude": 9.174932
+        },
+        "name": "Chiosco #6",
+        "objectId": "Zh4afRkMyf",
+        "updatedAt": "2014-08-12T15:25:08.024Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T11:32:25.520Z",
+        "location": {
+            "latitude": 39.1963,
+            "longitude": 9.1595
+        },
+        "name": "La Sella Del Diavolo",
+        "objectId": "MMPlSkDnjc",
+        "updatedAt": "2014-08-12T15:23:36.845Z"
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T11:38:29.363Z",
+        "location": {
+            "latitude": 39.201278,
+            "longitude": 9.161561
+        },
+        "name": "Il Lido",
+        "objectId": "uyIbbBFuM6",
+        "updatedAt": "2014-08-12T15:23:41.726Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T13:13:43.506Z",
+        "location": {
+            "latitude": 39.203033,
+            "longitude": 9.162901
+        },
+        "name": "Malibù",
+        "objectId": "dRdWdjh5hr",
+        "updatedAt": "2014-08-12T15:23:45.278Z"
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "createdAt": "2014-08-07T13:11:34.401Z",
+        "location": {
+            "latitude": 39.199791,
+            "longitude": 9.16065
+        },
+        "name": "Ufficiali Marina Militare",
+        "objectId": "PApkRgm96I",
+        "updatedAt": "2014-08-12T15:23:43.345Z"
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "createdAt": "2014-08-07T11:37:02.745Z",
+        "location": {
+            "latitude": 39.202602,
+            "longitude": 9.162818
+        },
+        "name": "Marina Militare",
+        "objectId": "XxrEsWXMAb",
+        "updatedAt": "2014-08-12T15:23:40.958Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T17:52:20.060Z",
+        "location": {
+            "latitude": 39.203765,
+            "longitude": 9.1634
+        },
+        "name": "Chiosco #1  ",
+        "objectId": "laHkUHTQbf",
+        "updatedAt": "2014-08-12T15:23:47.928Z"
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T17:57:13.582Z",
+        "location": {
+            "latitude": 39.204628,
+            "longitude": 9.164922
+        },
+        "name": "Stabilimento #2",
+        "objectId": "NFWypzE91p",
+        "updatedAt": "2014-08-12T15:23:57.963Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T17:59:25.542Z",
+        "location": {
+            "latitude": 39.20552,
+            "longitude": 9.164631
+        },
+        "name": "Lanterna Rossa",
+        "objectId": "GEquHKQGio",
+        "updatedAt": "2014-08-12T15:24:07.765Z"
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:01:05.959Z",
+        "location": {
+            "latitude": 39.20556,
+            "longitude": 9.165773
+        },
+        "name": "Stabilimento #3",
+        "objectId": "L6C0a5Fgjk",
+        "updatedAt": "2014-08-12T15:24:09.106Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:01:55.490Z",
+        "location": {
+            "latitude": 39.20634,
+            "longitude": 9.165476
+        },
+        "name": "Twist",
+        "objectId": "OVg4u0WCg8",
+        "updatedAt": "2014-08-12T15:24:13.758Z"
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "createdAt": "2014-08-07T18:02:47.850Z",
+        "location": {
+            "latitude": 39.206662,
+            "longitude": 9.165897
+        },
+        "name": "Aeronautica Militare",
+        "objectId": "aJ4dT1IRfl",
+        "updatedAt": "2014-08-12T15:24:14.716Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:05:04.761Z",
+        "location": {
+            "latitude": 39.20801,
+            "longitude": 9.167331
+        },
+        "name": "Chiosco #4",
+        "objectId": "Q7FUdLS9sT",
+        "updatedAt": "2014-08-12T15:24:32.794Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:06:43.975Z",
+        "location": {
+            "latitude": 39.208588,
+            "longitude": 9.16804
+        },
+        "name": "Il Miraggio",
+        "objectId": "cW6eSizcj9",
+        "updatedAt": "2014-08-12T15:24:39.142Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:12:58.092Z",
+        "location": {
+            "latitude": 39.213115,
+            "longitude": 9.174189
+        },
+        "name": "Chiosco #5",
+        "objectId": "KEGmk2QZNc",
+        "updatedAt": "2014-08-12T15:25:04.861Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:16:16.052Z",
+        "location": {
+            "latitude": 39.213883,
+            "longitude": 9.175576
+        },
+        "name": "Chiosco #7",
+        "objectId": "FhGCmUn9iB",
+        "updatedAt": "2014-08-12T15:25:09.028Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:17:01.814Z",
+        "location": {
+            "latitude": 39.214824,
+            "longitude": 9.17727
+        },
+        "name": "Capolinea",
+        "objectId": "92ZhtiueWJ",
+        "updatedAt": "2014-08-12T15:25:27.612Z"
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:18:58.442Z",
+        "location": {
+            "latitude": 39.215919,
+            "longitude": 9.179314
+        },
+        "name": "Ottagono",
+        "objectId": "HcxXK7DjzG",
+        "updatedAt": "2014-08-12T15:25:29.970Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:20:28.913Z",
+        "location": {
+            "latitude": 39.216952,
+            "longitude": 9.181149
+        },
+        "name": "Golden Beach",
+        "objectId": "QZwssmAmW0",
+        "updatedAt": "2014-08-12T15:25:35.082Z"
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "createdAt": "2014-08-07T18:21:45.675Z",
+        "location": {
+            "latitude": 39.217716,
+            "longitude": 9.182466
+        },
+        "name": "Stabilimento #8",
+        "objectId": "GyLaNVrQsn",
+        "updatedAt": "2014-08-12T15:26:01.561Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:24:47.941Z",
+        "location": {
+            "latitude": 39.218682,
+            "longitude": 9.184386
+        },
+        "name": "Alta Marea",
+        "objectId": "IFbhe2PINb",
+        "updatedAt": "2014-08-12T15:26:10.871Z"
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "createdAt": "2014-08-07T18:26:11.986Z",
+        "location": {
+            "latitude": 39.21969,
+            "longitude": 9.186588
+        },
+        "name": "Vigili Del Fuoco",
+        "objectId": "gUbWoPstGJ",
+        "updatedAt": "2014-08-12T15:26:13.691Z"
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "createdAt": "2014-08-07T18:27:06.327Z",
+        "location": {
+            "latitude": 39.220105,
+            "longitude": 9.187271
+        },
+        "name": "Corpo Nazionale Vigili Del Fuoco",
+        "objectId": "aFbEI6YWOT",
+        "updatedAt": "2014-08-12T15:26:14.373Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:29:22.987Z",
+        "location": {
+            "latitude": 39.221063,
+            "longitude": 9.189489
+        },
+        "name": "Bikini",
+        "objectId": "5bYGh2of3b",
+        "updatedAt": "2014-08-12T15:26:22.160Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:30:15.597Z",
+        "location": {
+            "latitude": 39.221677,
+            "longitude": 9.190894
+        },
+        "name": "Stabilimento #9",
+        "objectId": "Z5aCdoSGeW",
+        "updatedAt": "2014-08-12T15:26:48.153Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:31:09.626Z",
+        "location": {
+            "latitude": 39.222337,
+            "longitude": 9.192717
+        },
+        "name": "Stabilimento #10",
+        "objectId": "xWZkwNruKI",
+        "updatedAt": "2014-08-12T15:26:53.023Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:31:41.406Z",
+        "location": {
+            "latitude": 39.223001,
+            "longitude": 9.195221
+        },
+        "name": "La Marinella",
+        "objectId": "m9R0F1BhdT",
+        "updatedAt": "2014-08-12T15:27:01.306Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:32:39.254Z",
+        "location": {
+            "latitude": 39.223847,
+            "longitude": 9.197871
+        },
+        "name": "Skipper",
+        "objectId": "qDGhEo4Hwy",
+        "updatedAt": "2014-08-12T15:27:04.196Z"
+    },
+    {
+        "active": true,
+        "categoryService": 13,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:36:38.363Z",
+        "location": {
+            "latitude": 39.225933,
+            "longitude": 9.204515
+        },
+        "name": "Frontemare",
+        "objectId": "8nvyBrdWaW",
+        "updatedAt": "2014-08-12T15:27:56.384Z"
+    },
+    {
+        "active": true,
+        "categoryService": 8,
+        "categoryType": 8,
+        "createdAt": "2014-08-09T17:15:43.735Z",
+        "location": {
+            "latitude": 39.218723,
+            "longitude": 9.183736
+        },
+        "name": "Brave",
+        "objectId": "5jhNkWw1z6",
+        "updatedAt": "2014-08-12T15:28:45.218Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T17:53:47.880Z",
+        "location": {
+            "latitude": 39.204285,
+            "longitude": 9.163676
+        },
+        "name": "Emerson",
+        "objectId": "ViTh4GBBB0",
+        "updatedAt": "2014-08-12T15:23:27.332Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-05T16:48:52.996Z",
+        "location": {
+            "latitude": 39.194668,
+            "longitude": 9.158952
+        },
+        "name": "Otium",
+        "objectId": "0oc1ynIjzi",
+        "updatedAt": "2014-08-12T15:23:31.361Z"
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T11:35:25.074Z",
+        "location": {
+            "latitude": 39.198376,
+            "longitude": 9.160201
+        },
+        "name": "D'Aquila",
+        "objectId": "6Y6TKmpd4R",
+        "updatedAt": "2014-08-12T15:23:39.228Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:10:44.707Z",
+        "location": {
+            "latitude": 39.210187,
+            "longitude": 9.17001
+        },
+        "name": "Corto Maltese",
+        "objectId": "YKPMtqW1Ri",
+        "updatedAt": "2014-08-12T15:24:47.412Z"
+    },
+    {
+        "active": true,
+        "categoryService": 4,
+        "categoryType": 4,
+        "createdAt": "2014-08-07T18:11:40.840Z",
+        "location": {
+            "latitude": 39.210711,
+            "longitude": 9.170671
+        },
+        "name": "Fico d'India",
+        "objectId": "2d7AHXx2gU",
+        "updatedAt": "2014-08-12T15:24:48.813Z"
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "createdAt": "2014-08-07T18:22:59.091Z",
+        "location": {
+            "latitude": 39.218003,
+            "longitude": 9.18328
+        },
+        "name": "Polizia Di Stato",
+        "objectId": "B3PSr5tDxM",
+        "updatedAt": "2014-08-12T15:26:02.783Z"
+    },
+    {
+        "active": true,
+        "categoryService": 2,
+        "categoryType": 2,
+        "createdAt": "2014-08-07T18:27:47.289Z",
+        "location": {
+            "latitude": 39.220364,
+            "longitude": 9.187905
+        },
+        "name": "Guardia Di Finanza",
+        "objectId": "Ubdh33F736",
+        "updatedAt": "2014-08-12T15:26:16.958Z"
+    },
+    {
+        "active": true,
+        "categoryService": 1,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:34:35.718Z",
+        "location": {
+            "latitude": 39.224559,
+            "longitude": 9.200011
+        },
+        "name": "Lido Mediterraneo",
+        "objectId": "CUKjqelQq5",
+        "updatedAt": "2014-08-12T15:27:26.244Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:35:32.338Z",
+        "location": {
+            "latitude": 39.225269,
+            "longitude": 9.202456
+        },
+        "name": "Stabilimento #11",
+        "objectId": "kK8M7UQl2x",
+        "updatedAt": "2014-08-12T15:27:33.737Z"
+    },
+    {
+        "active": true,
+        "categoryService": 256,
+        "categoryType": 256,
+        "createdAt": "2014-08-07T18:36:05.327Z",
+        "location": {
+            "latitude": 39.225889,
+            "longitude": 9.203228
+        },
+        "name": "Campo da Basket",
+        "objectId": "Y7cNmGKJ1J",
+        "updatedAt": "2014-08-12T15:27:37.187Z"
+    },
+    {
+        "active": true,
+        "categoryService": 9,
+        "categoryType": 8,
+        "createdAt": "2014-08-07T18:37:16.133Z",
+        "location": {
+            "latitude": 39.226441,
+            "longitude": 9.205374
+        },
+        "name": "Alma Beach Studios",
+        "objectId": "ofDcrP7tu5",
+        "updatedAt": "2014-08-12T15:28:00.236Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:38:08.812Z",
+        "location": {
+            "latitude": 39.226577,
+            "longitude": 9.206415
+        },
+        "name": "Stabilimento #12",
+        "objectId": "QCx5GLpzWp",
+        "updatedAt": "2014-08-12T15:28:10.315Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:39:30.782Z",
+        "location": {
+            "latitude": 39.227212,
+            "longitude": 9.208799
+        },
+        "name": "Stabilimento #13",
+        "objectId": "VgMn9Vpe0q",
+        "updatedAt": "2014-08-12T15:28:17.433Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:41:24.518Z",
+        "location": {
+            "latitude": 39.227724,
+            "longitude": 9.21087
+        },
+        "name": "Stabilimento #14",
+        "objectId": "9yMMBE1Kiq",
+        "updatedAt": "2014-08-12T15:28:21.101Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:41:55.791Z",
+        "location": {
+            "latitude": 39.228173,
+            "longitude": 9.213115
+        },
+        "name": "Le Due Torri",
+        "objectId": "7dvmCz22Zl",
+        "updatedAt": "2014-08-12T15:28:36.657Z"
+    },
+    {
+        "active": true,
+        "categoryService": 5,
+        "categoryType": 1,
+        "createdAt": "2014-08-07T18:42:49.414Z",
+        "location": {
+            "latitude": 39.228793,
+            "longitude": 9.216073
+        },
+        "name": "I Pini",
+        "objectId": "qRG8Azat5v",
+        "updatedAt": "2014-08-12T15:28:39.034Z"
+    }
+]
