@@ -1,114 +1,114 @@
 [
     {
-        "createdAt": "2014-08-11T09:44:14.500Z",
         "name": "private_beach_resort",
+        "desc":{
+            "it":"Stabilimento balneare privato",
+            "en":"Private beach resort"
+        },
         "objectId": "fwlROvUEy6",
         "type": "building",
-        "updatedAt": "2015-02-22T18:09:01.966Z",
         "value": 2
     },
     {
-        "createdAt": "2014-08-11T09:44:23.584Z",
         "name": "kiosk",
         "objectId": "cIErnXsgaq",
         "type": "building",
-        "updatedAt": "2015-02-22T18:09:00.403Z",
         "value": 4
     },
     {
-        "createdAt": "2014-08-11T09:44:32.001Z",
         "name": "disco",
         "objectId": "zxd35AkmZa",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:42.345Z",
         "value": 8
     },
     {
-        "createdAt": "2014-08-11T09:44:39.393Z",
         "name": "toilet",
+        "desc":{
+            "it":"Bagno",
+            "en":"Toilet"
+        },
         "objectId": "Nthe0wzNyv",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:39.282Z",
         "value": 16
     },
     {
-        "createdAt": "2014-08-11T09:44:48.013Z",
         "name": "parking",
+        "desc":{
+            "it":"Parcheggio",
+            "en":"Parking"
+        },
         "objectId": "lNvLK38vAa",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:38.865Z",
         "value": 32
     },
     {
-        "createdAt": "2014-08-11T09:44:56.497Z",
         "name": "hospital",
+        "desc":{
+            "it":"Ospedale",
+            "en":"Hospital"
+        },
         "objectId": "QSpmoY8Q1J",
         "type": "building",
-        "updatedAt": "2015-02-22T18:09:00.110Z",
         "value": 64
     },
     {
-        "createdAt": "2014-08-11T09:45:05.557Z",
         "name": "fuel",
+        "desc":{
+            "it":"Distributore di benzina",
+            "en":"Gas Station"
+        },
         "objectId": "kYNrSXGaU8",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:37.892Z",
         "value": 128
     },
     {
-        "createdAt": "2014-08-11T09:45:13.840Z",
         "name": "sport",
         "objectId": "06NeJNScIa",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:37.069Z",
         "value": 256
     },
     {
-        "createdAt": "2014-08-11T09:44:00.676Z",
         "name": "beach_resort",
         "objectId": "Q7X8yZqAAb",
         "type": "building",
-        "updatedAt": "2015-02-22T18:08:59.821Z",
         "value": 1
     },
     {
-        "createdAt": "2014-08-11T09:45:23.901Z",
         "name": "garden",
         "objectId": "1rGBC6J8Mt",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:36.731Z",
         "value": 512
     },
     {
-        "createdAt": "2014-08-13T14:06:46.592Z",
         "name": "mtb",
         "objectId": "WeHqeADmam",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:34.774Z",
         "value": 8192
     },
     {
-        "createdAt": "2014-08-13T14:06:37.902Z",
         "name": "dog",
         "objectId": "ys8RoyCqUH",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:35.674Z",
         "value": 4096
     },
     {
-        "createdAt": "2014-08-13T14:06:27.095Z",
         "name": "wifi",
+        "desc":{
+            "it":"Area Wi-Fi",
+            "en":"Wi-Fi Area"
+        },
         "objectId": "ftsVIEorfj",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:36.053Z",
         "value": 2048
     },
     {
-        "createdAt": "2014-08-13T09:34:53.287Z",
         "name": "bus",
+        "desc":{
+            "it":"Fermata Autobus",
+            "en":"Bus Stop"
+        },
         "objectId": "XOMdgtiQ9h",
         "type": "service",
-        "updatedAt": "2015-02-22T18:07:36.407Z",
         "value": 1024
     }
 ]

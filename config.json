@@ -1,9 +1,10 @@
 [
     {
-        "Key": "dataVersion",
-        "Value": "1.0",
-        "createdAt": "2015-02-22T17:53:48.411Z",
-        "objectId": "oEasxkcpEb",
-        "updatedAt": "2015-02-22T17:53:50.561Z"
+        "key": "dataVersion",
+        "value": "1.0"
+    },
+    {
+        "key": "initialPosition",
+        "value": "39.218,9.184"
     }
 ]
