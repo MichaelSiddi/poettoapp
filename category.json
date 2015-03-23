@@ -12,6 +12,7 @@
     {
         "name": "kiosk",
         "objectId": "cIErnXsgaq",
+        "iconURL": "https://raw.githubusercontent.com/driftyco/ionicons/master/png/512/nuclear.png",
         "type": "building",
         "value": 4
     },
@@ -28,7 +29,6 @@
             "en":"Toilet"
         },
         "objectId": "Nthe0wzNyv",
-        "iconURL": "https://raw.githubusercontent.com/driftyco/ionicons/master/png/512/nuclear.png",
         "type": "service",
         "value": 16
     },
@@ -66,7 +66,6 @@
         "name": "sport",
         "objectId": "06NeJNScIa",
         "type": "service",
-        "iconURL":"https://raw.githubusercontent.com/driftyco/ionicons/master/png/512/ios7-basketball.png",
         "value": 256
     },
     {
