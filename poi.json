@@ -8,7 +8,7 @@
             "longitude": 9.159371
         },
         "name": "Le Palmette",
-        "objectId": "5sPWCJsKOl"
+        "objectId": 1
     },
     {
         "active": true,
@@ -19,7 +19,7 @@
             "longitude": 9.163968
         },
         "name": "Palm Beach",
-        "objectId": "BfYk6pqv4K"
+        "objectId": 2
     },
     {
         "active": true,
@@ -30,7 +30,7 @@
             "longitude": 9.168683
         },
         "name": "Il Nilo",
-        "objectId": "QopXtzebQU"
+        "objectId": 3
     },
     {
         "active": true,
@@ -41,7 +41,7 @@
             "longitude": 9.169153
         },
         "name": "Calypso",
-        "objectId": "h63aEuAHXH"
+        "objectId": 4
     },
     {
         "active": true,
@@ -52,7 +52,7 @@
             "longitude": 9.174932
         },
         "name": "Chiosco #6",
-        "objectId": "Zh4afRkMyf"
+        "objectId": 5
     },
     {
         "active": true,
@@ -63,7 +63,7 @@
             "longitude": 9.1595
         },
         "name": "La Sella Del Diavolo",
-        "objectId": "MMPlSkDnjc"
+        "objectId": 6
     },
     {
         "active": true,
@@ -74,7 +74,7 @@
             "longitude": 9.161561
         },
         "name": "Il Lido",
-        "objectId": "uyIbbBFuM6"
+        "objectId": 7
     },
     {
         "active": true,
@@ -85,7 +85,7 @@
             "longitude": 9.162901
         },
         "name": "Malibù",
-        "objectId": "dRdWdjh5hr"
+        "objectId": 8
     },
     {
         "active": true,
@@ -96,7 +96,7 @@
             "longitude": 9.16065
         },
         "name": "Ufficiali Marina Militare",
-        "objectId": "PApkRgm96I"
+        "objectId": 9
     },
     {
         "active": true,
@@ -107,7 +107,7 @@
             "longitude": 9.162818
         },
         "name": "Marina Militare",
-        "objectId": "XxrEsWXMAb"
+        "objectId": 10
     },
     {
         "active": true,
@@ -118,7 +118,7 @@
             "longitude": 9.1634
         },
         "name": "Chiosco #1  ",
-        "objectId": "laHkUHTQbf"
+        "objectId": 11
     },
     {
         "active": true,
@@ -129,7 +129,7 @@
             "longitude": 9.164922
         },
         "name": "Stabilimento #2",
-        "objectId": "NFWypzE91p"
+        "objectId": 12
     },
     {
         "active": true,
@@ -140,7 +140,7 @@
             "longitude": 9.164631
         },
         "name": "Lanterna Rossa",
-        "objectId": "GEquHKQGio"
+        "objectId": 13
     },
     {
         "active": true,
@@ -151,7 +151,7 @@
             "longitude": 9.165773
         },
         "name": "Stabilimento #3",
-        "objectId": "L6C0a5Fgjk"
+        "objectId": 14
     },
     {
         "active": true,
@@ -162,7 +162,7 @@
             "longitude": 9.165476
         },
         "name": "Twist",
-        "objectId": "OVg4u0WCg8"
+        "objectId": 15
     },
     {
         "active": true,
@@ -173,7 +173,7 @@
             "longitude": 9.165897
         },
         "name": "Aeronautica Militare",
-        "objectId": "aJ4dT1IRfl"
+        "objectId": 16
     },
     {
         "active": true,
@@ -184,7 +184,7 @@
             "longitude": 9.167331
         },
         "name": "Chiosco #4",
-        "objectId": "Q7FUdLS9sT"
+        "objectId": 17
     },
     {
         "active": true,
@@ -195,7 +195,7 @@
             "longitude": 9.16804
         },
         "name": "Il Miraggio",
-        "objectId": "cW6eSizcj9"
+        "objectId": 18
     },
     {
         "active": true,
@@ -206,7 +206,7 @@
             "longitude": 9.174189
         },
         "name": "Chiosco #5",
-        "objectId": "KEGmk2QZNc"
+        "objectId": 19
     },
     {
         "active": true,
@@ -217,7 +217,7 @@
             "longitude": 9.175576
         },
         "name": "Chiosco #7",
-        "objectId": "FhGCmUn9iB"
+        "objectId": 20
     },
     {
         "active": true,
@@ -228,7 +228,7 @@
             "longitude": 9.17727
         },
         "name": "Capolinea",
-        "objectId": "92ZhtiueWJ"
+        "objectId": 21
     },
     {
         "active": true,
@@ -239,7 +239,7 @@
             "longitude": 9.179314
         },
         "name": "Ottagono",
-        "objectId": "HcxXK7DjzG"
+        "objectId": 22
     },
     {
         "active": true,
@@ -250,7 +250,7 @@
             "longitude": 9.181149
         },
         "name": "Golden Beach",
-        "objectId": "QZwssmAmW0"
+        "objectId": 23
     },
     {
         "active": true,
@@ -261,7 +261,7 @@
             "longitude": 9.182466
         },
         "name": "Stabilimento #8",
-        "objectId": "GyLaNVrQsn"
+        "objectId": 24
     },
     {
         "active": true,
@@ -272,7 +272,7 @@
             "longitude": 9.184386
         },
         "name": "Alta Marea",
-        "objectId": "IFbhe2PINb"
+        "objectId": 25
     },
     {
         "active": true,
@@ -283,7 +283,7 @@
             "longitude": 9.186588
         },
         "name": "Vigili Del Fuoco",
-        "objectId": "gUbWoPstGJ"
+        "objectId": 26
     },
     {
         "active": true,
@@ -294,7 +294,7 @@
             "longitude": 9.187271
         },
         "name": "Corpo Nazionale Vigili Del Fuoco",
-        "objectId": "aFbEI6YWOT"
+        "objectId": 27
     },
     {
         "active": true,
@@ -305,7 +305,7 @@
             "longitude": 9.189489
         },
         "name": "Bikini",
-        "objectId": "5bYGh2of3b"
+        "objectId": 28
     },
     {
         "active": true,
@@ -316,7 +316,7 @@
             "longitude": 9.190894
         },
         "name": "Stabilimento #9",
-        "objectId": "Z5aCdoSGeW"
+        "objectId": 29
     },
     {
         "active": true,
@@ -327,7 +327,7 @@
             "longitude": 9.192717
         },
         "name": "Stabilimento #10",
-        "objectId": "xWZkwNruKI"
+        "objectId": 30
     },
     {
         "active": true,
@@ -338,7 +338,7 @@
             "longitude": 9.195221
         },
         "name": "La Marinella",
-        "objectId": "m9R0F1BhdT"
+        "objectId": 31
     },
     {
         "active": true,
@@ -349,7 +349,7 @@
             "longitude": 9.197871
         },
         "name": "Skipper",
-        "objectId": "qDGhEo4Hwy"
+        "objectId": 32
     },
     {
         "active": true,
@@ -360,7 +360,7 @@
             "longitude": 9.204515
         },
         "name": "Frontemare",
-        "objectId": "8nvyBrdWaW"
+        "objectId": 33
     },
     {
         "active": true,
@@ -371,7 +371,7 @@
             "longitude": 9.183736
         },
         "name": "Brave",
-        "objectId": "5jhNkWw1z6"
+        "objectId": 34
     },
     {
         "active": true,
@@ -382,7 +382,7 @@
             "longitude": 9.163676
         },
         "name": "Emerson",
-        "objectId": "ViTh4GBBB0"
+        "objectId": 35
     },
     {
         "active": true,
@@ -393,7 +393,7 @@
             "longitude": 9.158952
         },
         "name": "Otium",
-        "objectId": "0oc1ynIjzi"
+        "objectId": 36
     },
     {
         "active": true,
@@ -404,7 +404,7 @@
             "longitude": 9.160201
         },
         "name": "D'Aquila",
-        "objectId": "6Y6TKmpd4R"
+        "objectId": 37
     },
     {
         "active": true,
@@ -415,7 +415,7 @@
             "longitude": 9.17001
         },
         "name": "Corto Maltese",
-        "objectId": "YKPMtqW1Ri"
+        "objectId": 38
     },
     {
         "active": true,
@@ -426,7 +426,7 @@
             "longitude": 9.170671
         },
         "name": "Fico d'India",
-        "objectId": "2d7AHXx2gU"
+        "objectId": 39
     },
     {
         "active": true,
@@ -437,7 +437,7 @@
             "longitude": 9.18328
         },
         "name": "Polizia Di Stato",
-        "objectId": "B3PSr5tDxM"
+        "objectId": 40
     },
     {
         "active": true,
@@ -448,7 +448,7 @@
             "longitude": 9.187905
         },
         "name": "Guardia Di Finanza",
-        "objectId": "Ubdh33F736"
+        "objectId": 41
     },
     {
         "active": true,
@@ -459,7 +459,7 @@
             "longitude": 9.200011
         },
         "name": "Lido Mediterraneo",
-        "objectId": "CUKjqelQq5"
+        "objectId": 42
     },
     {
         "active": true,
@@ -470,7 +470,7 @@
             "longitude": 9.202456
         },
         "name": "Stabilimento #11",
-        "objectId": "kK8M7UQl2x"
+        "objectId": 43
     },
     {
         "active": true,
@@ -481,7 +481,7 @@
             "longitude": 9.203228
         },
         "name": "Campo da Basket",
-        "objectId": "Y7cNmGKJ1J"
+        "objectId": 44
     },
     {
         "active": true,
@@ -492,7 +492,7 @@
             "longitude": 9.205374
         },
         "name": "Alma Beach Studios",
-        "objectId": "ofDcrP7tu5"
+        "objectId": 45
     },
     {
         "active": true,
@@ -503,7 +503,7 @@
             "longitude": 9.206415
         },
         "name": "Stabilimento #12",
-        "objectId": "QCx5GLpzWp"
+        "objectId": 46
     },
     {
         "active": true,
@@ -514,7 +514,7 @@
             "longitude": 9.208799
         },
         "name": "Stabilimento #13",
-        "objectId": "VgMn9Vpe0q"
+        "objectId": 47
     },
     {
         "active": true,
@@ -525,7 +525,7 @@
             "longitude": 9.21087
         },
         "name": "Stabilimento #14",
-        "objectId": "9yMMBE1Kiq"
+        "objectId": 48
     },
     {
         "active": true,
@@ -536,7 +536,7 @@
             "longitude": 9.213115
         },
         "name": "Le Due Torri",
-        "objectId": "7dvmCz22Zl"
+        "objectId": 49
     },
     {
         "active": true,
@@ -547,6 +547,6 @@
             "longitude": 9.216073
         },
         "name": "I Pini",
-        "objectId": "qRG8Azat5v"
+        "objectId": 50
     }
 ]

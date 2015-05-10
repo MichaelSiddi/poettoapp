@@ -5,20 +5,20 @@
             "it":"Stabilimento balneare privato",
             "en":"Private beach resort"
         },
-        "objectId": "fwlROvUEy6",
+        "objectId": 1,
         "type": "building",
         "value": 2
     },
     {
         "name": "kiosk",
-        "objectId": "cIErnXsgaq",
+        "objectId": 2,
         "iconURL": "https://raw.githubusercontent.com/driftyco/ionicons/master/png/512/nuclear.png",
         "type": "building",
         "value": 4
     },
     {
         "name": "disco",
-        "objectId": "zxd35AkmZa",
+        "objectId": 3,
         "type": "service",
         "value": 8
     },
@@ -28,7 +28,7 @@
             "it":"Bagno",
             "en":"Toilet"
         },
-        "objectId": "Nthe0wzNyv",
+        "objectId": 4,
         "type": "service",
         "value": 16
     },
@@ -38,7 +38,7 @@
             "it":"Parcheggio",
             "en":"Parking"
         },
-        "objectId": "lNvLK38vAa",
+        "objectId": 5,
         "type": "service",
         "value": 32
     },
@@ -48,7 +48,7 @@
             "it":"Ospedale",
             "en":"Hospital"
         },
-        "objectId": "QSpmoY8Q1J",
+        "objectId": 6,
         "type": "building",
         "value": 64
     },
@@ -58,37 +58,37 @@
             "it":"Distributore di benzina",
             "en":"Gas Station"
         },
-        "objectId": "kYNrSXGaU8",
+        "objectId": 7,
         "type": "service",
         "value": 128
     },
     {
         "name": "sport",
-        "objectId": "06NeJNScIa",
+        "objectId": 8,
         "type": "service",
         "value": 256
     },
     {
         "name": "beach_resort",
-        "objectId": "Q7X8yZqAAb",
+        "objectId": 9,
         "type": "building",
         "value": 1
     },
     {
         "name": "garden",
-        "objectId": "1rGBC6J8Mt",
+        "objectId": 10,
         "type": "service",
         "value": 512
     },
     {
         "name": "mtb",
-        "objectId": "WeHqeADmam",
+        "objectId": 11,
         "type": "service",
         "value": 8192
     },
     {
         "name": "dog",
-        "objectId": "ys8RoyCqUH",
+        "objectId": 12,
         "type": "service",
         "value": 4096
     },
@@ -98,7 +98,7 @@
             "it":"Area Wi-Fi",
             "en":"Wi-Fi Area"
         },
-        "objectId": "ftsVIEorfj",
+        "objectId": 13,
         "type": "service",
         "value": 2048
     },
@@ -108,7 +108,7 @@
             "it":"Fermata Autobus",
             "en":"Bus Stop"
         },
-        "objectId": "XOMdgtiQ9h",
+        "objectId": 14,
         "type": "service",
         "value": 1024
     }
